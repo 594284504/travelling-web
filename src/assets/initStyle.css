@@ -1,0 +1,29 @@
+ 
+body,ul,dl,ol,p {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-weight: 400;
+    color: #666;
+    font-size: 14px;
+    font-family: "宋体";
+    }
+     
+     
+     
+    /* 行内元素 */
+    a {
+    text-decoration: none;
+    color: #666;
+    }
+     
+     
+     
+    /* 行内块元素 */
+    img,input {
+    border: 0 none;
+    outline-style: none;
+    padding: 0;
+    vertical-align: top;
+    }
+   
